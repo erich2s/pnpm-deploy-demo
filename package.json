@@ -1,0 +1,5 @@
+{
+  "name": "pnpm-deploy-demo",
+  "version": "1.0.0",
+  "packageManager": "pnpm@10.3.0"
+}
